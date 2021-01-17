@@ -7,5 +7,6 @@ package com;
 public class Other {
     public void sayOther(){
         System.out.println("qqq");
+        System.out.println("www");
     }
 }
