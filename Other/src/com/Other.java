@@ -8,5 +8,6 @@ public class Other {
     public void sayOther(){
         System.out.println("qqq");
         System.out.println("www");
+        System.out.println("zzz");
     }
 }
